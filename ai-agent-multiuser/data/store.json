@@ -1,0 +1,27 @@
+{
+  "tasks": {
+    "613c7e9f2897": {
+      "id": "613c7e9f2897",
+      "owner_id": "dcb19fb0674e35d9bd103454",
+      "title": "gym tomorrow",
+      "description": null,
+      "status": "pending",
+      "start_time": "2026-07-14T18:00:00",
+      "end_time": null,
+      "priority": null,
+      "recurrence_rule": null,
+      "default_reminder_minutes_before": 30,
+      "created_at": "2026-07-13T11:24:55.078082"
+    }
+  },
+  "reminders": {
+    "8b56482afd62": {
+      "id": "8b56482afd62",
+      "task_id": "613c7e9f2897",
+      "trigger_time": "2026-07-14T17:30:00",
+      "status": "scheduled",
+      "type": "default"
+    }
+  },
+  "conversation": []
+}
